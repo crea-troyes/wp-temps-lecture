@@ -49,6 +49,6 @@ add_filter('wp_temps_lecture_text', function($text, $minutes) {
 
 ## À propos
 
-Développé par Alban de Crea-Troyes.
+Développé par Alban GUILLIER de Crea-Troyes.
 N'hésitez pas à laisser vos retours, suggestions ou améliorations !
 
